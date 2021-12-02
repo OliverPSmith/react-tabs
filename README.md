@@ -5,6 +5,7 @@ Hide and reveal content by clicking on the tabs
 Here is a link to the web page --> https://tabs-react-ops.netlify.app/
 
 Framework used is React
+
 Languages used are JSX + CSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
